@@ -1,0 +1,1 @@
+Kattis is a platform for arranging ICPC world finals
